@@ -51,17 +51,17 @@ React + Firebase app with Spotify API integration for real-time music streaming
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Patel-1172&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B00&icon_color=FF6B00" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Patel-1172&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=00000000&count_private=true&cache_seconds=1800" />
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harry-Patel-1172&theme=tokyonight&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harry-Patel-1172&theme=tokyonight&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Patel-1172&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B00" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Patel-1172&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B00&text_color=ffffff&bg_color=00000000&cache_seconds=1800" />
+</p> -->
 
 ---
 
@@ -83,13 +83,13 @@ React + Firebase app with Spotify API integration for real-time music streaming
 
 <p align="center">
   <a href="mailto:harrypatel1172@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FF6B00?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/harrypatel1172">
     <img src="https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Harry-Patel-1172">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
