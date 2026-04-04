@@ -1,4 +1,4 @@
-[<h1 align="center">👋 Hi, I'm <span style="color:#FF6B00;">Harry Patel</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#FF6B00;">Harry Patel</span></h1>
 
 <p align="center">
   <a href="https://harry-patel-1172.netlify.app/" target="_blank">
