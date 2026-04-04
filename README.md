@@ -110,4 +110,3 @@ React + Firebase app with Spotify API integration for real-time music streaming
 <h3 align="center" style="color:#FF6B00;">
   ⚡ Analyzing Data • Building Products • Solving Problems ⚡
 </h3>
-](https://harry-patel-1172.netlify.app/)
