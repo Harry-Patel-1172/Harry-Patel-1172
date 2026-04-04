@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF6B00&center=true&vCenter=true&width=600&lines=Data+Analyst;MERN+Stack+Developer;Building+Data-Driven+Solutions" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-FF6B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MERN%20Developer-FF6B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-black?style=for-the-badge" />
@@ -42,6 +46,22 @@ Full-stack web app with authentication, product management, and cart system
 
 ### 🎵 Beatbox (Music Streaming App)
 React + Firebase app with Spotify API integration for real-time music streaming  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Patel-1172&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B00&icon_color=FF6B00" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harry-Patel-1172&theme=tokyonight&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Patel-1172&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B00" />
+</p>
 
 ---
 
