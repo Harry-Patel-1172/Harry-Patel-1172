@@ -1,4 +1,10 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#FF6B00;">Harry Patel</span></h1>
+[<h1 align="center">👋 Hi, I'm <span style="color:#FF6B00;">Harry Patel</span></h1>
+
+<p align="center">
+  <a href="https://harry-patel-1172.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-FF6B00?style=for-the-badge" />
+  </a>
+</p>
 
 <p align="center">
   🎓 BCA Student • 📊 Data Analyst • 💻 MERN Stack Developer  
@@ -104,3 +110,4 @@ React + Firebase app with Spotify API integration for real-time music streaming
 <h3 align="center" style="color:#FF6B00;">
   ⚡ Analyzing Data • Building Products • Solving Problems ⚡
 </h3>
+](https://harry-patel-1172.netlify.app/)
